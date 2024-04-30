@@ -1,1 +1,1 @@
-print("Hello Everyone!")
+# These two Schema Designs are to show how to make a optimized data flow for databases to fit a customers needs
